@@ -1,0 +1,10 @@
+para la practica final se necesita:
+- axis 2
+-tomcat v6
+-agregar el conector mysql al apache tambien
+
+
+comentarios:
+
+logre llegar hasta los jar al front, cree test en el mismo front para probar los metodos y funcionaron correctamente pero al ejecutar 
+el mismo codigo en el servlet no logre hacerlo funcionar
